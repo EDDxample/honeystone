@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "honeystone",
+  "version": "${version}",
+
+  "name": "Honeystone",
+  "description": "Adds the Honey Block with sticky properties!",
+  "authors": [
+    "EDDxample"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/EDDxample/honeystone"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/honeystone/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "eddxample.Main"
+    ]
+  },
+  "mixins": [
+    "honeystone.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
