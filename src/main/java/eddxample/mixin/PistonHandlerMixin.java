@@ -1,11 +1,5 @@
 package eddxample.mixin;
 
-import com.google.common.collect.Lists;
-import net.minecraft.block.*;
-import net.minecraft.block.enums.BedPart;
-import net.minecraft.block.enums.ChestType;
-import net.minecraft.block.enums.DoubleBlockHalf;
-import net.minecraft.block.piston.PistonBehavior;
 import net.minecraft.block.piston.PistonHandler;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.Direction;
