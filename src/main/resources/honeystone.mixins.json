@@ -3,7 +3,7 @@
   "package": "eddxample.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "PistonHandlerMixin",
+    "PistonMathMixin",
     "PistonBlockMixin"
   ],
   "client": [
