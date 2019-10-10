@@ -1,6 +1,6 @@
 # Honeystone
 
-Showcase: Showcase: https://youtu.be/UGyTBpqSNTc
+Showcase: https://youtu.be/UGyTBpqSNTc
 
 ## Setup
 * Clone the repository
